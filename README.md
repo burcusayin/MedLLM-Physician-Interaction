@@ -55,3 +55,15 @@ Run the code via .sh files. Output of the model will be saved in the directory y
 
 To postprocess the model outputs, run `postprocess_case1.ipynb` or `postprocess_case2`
 To postprocess the model outputs for Case 3, you can use `postprocess_case1.ipynb`
+
+# Citation
+
+```bash
+@article{sayin2024,
+      title={Can LLMs Correct Physicians, Yet? Investigating Effective Interaction Methods in the Medical Domain},
+      author={Burcu Sayin and Pasquale Minervini and Jacopo Staiano and Andrea Passerini},
+      year={2024},
+      journal={arXiv},
+      volume={abs/2403.20288}
+}
+```
